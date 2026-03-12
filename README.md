@@ -10,6 +10,7 @@ O objetivo da análise é identificar perfis de participantes a partir de respos
 
 ## Estrutura do Repositório
 
+``
 iiiced2025
 │
 ├── README.md
@@ -22,6 +23,7 @@ iiiced2025
 │
 │
 └── LICENSE
+``
 
 ## Conjunto de Dados
 
