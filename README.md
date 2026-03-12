@@ -10,7 +10,7 @@ O objetivo da análise é identificar perfis de participantes a partir de respos
 
 ## Estrutura do Repositório
 
-``
+```
 iiiced2025
 │
 ├── README.md
@@ -21,9 +21,8 @@ iiiced2025
 ├── iii_ced_2025.ipynb
 │   └── clusterizacao_ia_educacao.ipynb
 │
-│
 └── LICENSE
-``
+```
 
 ## Conjunto de Dados
 
