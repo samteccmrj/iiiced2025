@@ -10,13 +10,18 @@ O objetivo da análise é identificar perfis de participantes a partir de respos
 
 ## Estrutura do Repositório
 
-├── dados/
-│  ├── dataset_pre_teste.xlsx
-│  ├── dataset_pos_teste.xlsx
-├── iii_ced_2025.ipynb
+iiiced2025
+│
 ├── README.md
+├── dados
+│   └── dataset_pre_teste.xlsx
+│   └── dataset_pos_teste.xlsx
+│
+├── iii_ced_2025.ipynb
+│   └── clusterizacao_ia_educacao.ipynb
+│
+│
 └── LICENSE
-
 
 ## Conjunto de Dados
 
