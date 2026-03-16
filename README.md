@@ -18,8 +18,8 @@ iiiced2025
 │   └── dataset_pre_teste.xlsx
 │   └── dataset_pos_teste.xlsx
 │
-├── iii_ced_2025.ipynb
-│   └── clusterizacao_ia_educacao.ipynb
+├── clusterizacao_ia_educacao.ipynb
+│
 │
 └── LICENSE
 ```
