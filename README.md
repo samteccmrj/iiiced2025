@@ -1,6 +1,9 @@
 # III CED 2025
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-blue.svg)](https://creativecommons.org/licenses/by/4.0/)
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Jupyter](https://img.shields.io/badge/Notebook-Jupyter-orange)
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 
 ## Análise e Clusterização de Dados Educacionais
 
@@ -111,12 +114,16 @@ https://colab.research.google.com
 
 2. Faça o upload do notebook disponível neste repositório:
 
+```
 iii_ced_2025.ipynb
+```
 
 3. Faça o upload dos datasets localizados em:
 
+```
 dados/dataset_pre_teste.xlsx  
 dados/dataset_pos_teste.xlsx
+```
 
 4. Execute as células do notebook sequencialmente.
 
@@ -124,10 +131,10 @@ O ambiente do Google Colab já possui as bibliotecas necessárias para execuçã
 
 ### Execução local (opcional)
 
-Caso prefira executar localmente, instale as dependências necessárias:
+- Caso prefira executar localmente, instale as dependências necessárias:
 
-pip install pandas scikit-learn matplotlib seaborn jupyter
+- pip install pandas scikit-learn matplotlib seaborn jupyter
 
-Em seguida, execute o notebook:
+- Em seguida, execute o notebook:
 
-jupyter notebook
+- jupyter notebook
