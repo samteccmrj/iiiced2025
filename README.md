@@ -133,8 +133,12 @@ O ambiente do Google Colab já possui as bibliotecas necessárias para execuçã
 
 - Caso prefira executar localmente, instale as dependências necessárias:
 
-- pip install pandas scikit-learn matplotlib seaborn jupyter
+```
+pip install pandas scikit-learn matplotlib seaborn jupyter
+```
 
 - Em seguida, execute o notebook:
 
-- jupyter notebook
+```
+jupyter notebook
+```
